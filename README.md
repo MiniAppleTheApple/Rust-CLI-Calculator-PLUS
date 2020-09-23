@@ -1,1 +1,4 @@
-# Rust-CLI-Calculator2
+# Rust-CLI-Calculator-PLUS
+## Install
+git clone 
+## Run
