@@ -12,8 +12,12 @@ cargo run
 - put number,operator and number
 - then it will prints the answer
 ### exmaple
+```
 10+10
 20
+```
 ---
+```
 10 - 40
 -30
+```
